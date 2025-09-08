@@ -116,13 +116,11 @@ Inserir um novo curso chamado **"Inteligência Artificial"**, 60 horas, R$1200.
 ## 📊 Etapa 7 – Relatório Final  
 Liste os **5 cursos mais caros** e mostre quantos alunos estão matriculados em cada um:  
 
-
 ---
+## 🙋🏻 Etapa 8 -- BONUS
+Faça um JOIN (se nao conseguir, faremos juntos)
 
 ✅ **Entrega final:**  
 - Salvem o arquivo `fabrica_programadores.db`  
-- Subam na pasta compartilhada:  
-```
-\\DT246715\Banco de Dados\Alunos_14h
-```
+
 
