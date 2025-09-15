@@ -1,5 +1,8 @@
 # 🏫 Tutorial de Banco de Dados – Escola Fábrica de Programadores
 
+<img width="1536" height="1024" alt="diagrama" src="https://github.com/user-attachments/assets/12a99ed6-0bc0-4921-9090-d41784f1ddaa" />
+
+
 📍 **Contexto:**  
 Vocês foram contratados para organizar os dados da **Escola Fábrica de Programadores**.  
 A escola possui alunos, professores, cursos e matrículas.  
