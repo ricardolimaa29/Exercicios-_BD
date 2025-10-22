@@ -8,28 +8,16 @@ Vocês foram contratados para organizar os dados da **Escola Fábrica de Program
 A escola possui alunos, professores, cursos e matrículas.  
 Cada equipe (Time A e Time B) deverá **criar o banco de dados**, inserir registros e realizar consultas e alterações conforme solicitado.  
 
-📁 **Local de entrega:**  
-Todos deverão salvar o arquivo do banco (`fabrica_programadores.db`) na pasta compartilhada:  
-```
-\\DT246715\Banco de Dados\Alunos_14h
-```
 
----
-
-## 🚀 Etapa 1 – Preparação  
-1. Dividam-se em **2 times**:  
-   - **Time A** → responsável por **Alunos e Professores**  
-   - **Time B** → responsável por **Cursos e Matrículas**  
-
-2. Criem o banco de dados com o nome:  
+1. Criem o banco de dados com o nome:  
    ```
    fabrica_programadores.db
    ```
 
-3. Criem as tabelas conforme o time:
+2. Criem as tabelas conforme o time:
 
 ### Tabelas do Time A  
-```sql
+```
 CREATE TABLE Alunos (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     (OUTRAS COLUNAS)
@@ -39,10 +27,8 @@ CREATE TABLE Professores (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
       (OUTRAS COLUNAS)
 );
-```
 
-### Tabelas do Time B  
-```sql
+
 CREATE TABLE Cursos (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
       
